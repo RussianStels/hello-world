@@ -17,8 +17,7 @@ second attempt to deal with github)
 + мурмяу
 + уруру
 
-<
-import time
+<import time
 location = "start"
 role = "???"
 while True:
@@ -65,5 +64,4 @@ for i in ls:
   print(i, end="!")
 time.sleep(5)
 print()
-print(" Глава 1 закончена! Мои поздравления!")
->
+print(" Глава 1 закончена! Мои поздравления!")>
