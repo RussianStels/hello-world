@@ -17,7 +17,7 @@ second attempt to deal with github)
 + мурмяу
 + уруру
 
-<import time
+<import time>
 location = "start"
 role = "???"
 while True:
